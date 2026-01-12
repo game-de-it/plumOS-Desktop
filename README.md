@@ -3,6 +3,10 @@
 <img src="https://github.com/game-de-it/plumOS-Desktop/blob/main/asset/sc07.jpeg" width="320"> <img src="https://github.com/game-de-it/plumOS-Desktop/blob/main/asset/sc08.jpeg" width="320">   
 
 
+---
+[Click here for an explanation in English](https://github.com/game-de-it/plumOS-Desktop/blob/main/README_EN.md)
+
+---
 
 
 plumOS-DesktopはdArkOSをベースに作られたCFWであり、Powkiddy RGB30専用に作られています。  
@@ -74,21 +78,4 @@ dArkOSはDebian Trixieをベースに作られたハンドヘルド用のOSで�
 
 ## その他の情報について
 [詳しくはdArkOSのwikiを参照してください](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RGB30)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

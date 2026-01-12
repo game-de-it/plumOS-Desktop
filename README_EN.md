@@ -8,6 +8,11 @@ plumOS-Desktop is a CFW based on dArkOS, designed specifically for the Powkiddy 
 dArkOS is a handheld OS built on Debian Trixie.
 [For more information about dArkOS, click here](https://github.com/christianhaitian/dArkOS)
 
+
+## Acknowledgments
+We would like to express our gratitude to the dArkOS development team.
+
+
 ## Notes
 
 * Basic Linux knowledge is required to operate this CFW, so please study or research on your own to resolve any issues.

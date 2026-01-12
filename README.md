@@ -8,10 +8,13 @@
 
 ---
 
-
 plumOS-DesktopはdArkOSをベースに作られたCFWであり、Powkiddy RGB30専用に作られています。  
 dArkOSはDebian Trixieをベースに作られたハンドヘルド用のOSです。  
 [dArkOSについてはこちらを参照してください](https://github.com/christianhaitian/dArkOS)
+
+
+## 謝辞
+dArkOSの開発チームの皆様に感謝を申し上げます。
 
 
 ## 注意事項

@@ -17,6 +17,10 @@ dArkOSはDebian Trixieをベースに作られたハンドヘルド用のOSで�
 dArkOSの開発チームの皆様に感謝を申し上げます。
 
 
+## ダウンロード
+[ダウンロードはこちらから](https://github.com/game-de-it/plumOS-Desktop/releases)
+
+
 ## 注意事項
 - このCFWを操作するには基本的なLinux知識が必要になりますので、ご自身で勉強したり調査したりして問題を解決してください
 - 品質の高いSDカードを利用してください
